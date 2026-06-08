@@ -29,7 +29,5 @@ It is designed to replace manual billing systems with a computerized solution th
 - **Database:** MySQL (if applicable)  
 - **JDBC:** For database connectivity  
 
----
 
-## 📂 Project Structure
 
